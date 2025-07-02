@@ -1,3 +1,3 @@
 # apnaCollege-demo
 this is my git repository  
-Author - Gaurav Yadav
+Author - Gaurav Yadav Yadav
